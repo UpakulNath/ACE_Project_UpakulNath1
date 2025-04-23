@@ -16,5 +16,5 @@ This is a C program that calculates the **area** and **perimeter/circumference**
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/shape-calculator.git
-cd shape-calculator
+git clone https://github.com/UpakulNath/ACE_PROJECT_UPAKULNATH.git
+cd ACE_PROJECT_UPAKULNATH
